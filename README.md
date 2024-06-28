@@ -1,1 +1,1 @@
-Integrated CI pipeline for the deployment of Reddit Clone.
+Integrated CI pipeline for the deployment of Reddit Clone .
